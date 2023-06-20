@@ -1,6 +1,4 @@
 
-[]: 
-
 # YOLOv5-imporve-method
 这是本人读研时对YOLOv5的改进
 1.安装配置本项目
