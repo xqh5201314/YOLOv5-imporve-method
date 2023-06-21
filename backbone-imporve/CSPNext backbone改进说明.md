@@ -12,7 +12,7 @@ CSPNext利用当时将卷积神经网络的卷积核变大的影响，采用5×5
 
 3:在models/yolo.py 文件导入CSPNeXtLayer
 
-from CSPCM import  CSPNeXtLayer
+from CSPNext import  CSPNeXtLayer
 
 4:找到models/yolo.py文件下里的parse_model 函数，将CSPNeXtLayer加入进去
 
